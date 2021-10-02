@@ -2,11 +2,12 @@
 
 Built With:
 
-![css](https://user-images.githubusercontent.com/88562205/135731361-edc61832-4ace-4516-b7b9-6fa14679ec8d.png)
-![html](https://user-images.githubusercontent.com/88562205/135731364-d7a88ae5-f8e9-460a-92c8-fab86a0be11c.png)
+- HTML
+- CSS
 
 
 A brief preview: 
 
-![dhmobile]https://user-images.githubusercontent.com/88562205/135731307-6826d2ce-f82e-482d-9ce7-4b70fdea539c.jpg
-![dh]https://user-images.githubusercontent.com/88562205/135731294-bf813ce1-c091-4f84-927c-2c2301ffc96b.jpg
+![LAYOUT_DESKTOP](https://user-images.githubusercontent.com/88562205/135731484-e8d39f1c-3680-46a5-8f6a-c49ae8bf5060.jpg)
+![LAYOUT_MOBILE](https://user-images.githubusercontent.com/88562205/135731485-7ec025ca-1d68-4b47-b50b-a7c1dd974bfd.jpg)
+
