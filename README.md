@@ -2,8 +2,8 @@
 
 Built With:
 
-![dh]https://user-images.githubusercontent.com/88562205/135731364-d7a88ae5-f8e9-460a-92c8-fab86a0be11c.png
-![dh]https://user-images.githubusercontent.com/88562205/135731361-edc61832-4ace-4516-b7b9-6fa14679ec8d.png
+![css](https://user-images.githubusercontent.com/88562205/135731361-edc61832-4ace-4516-b7b9-6fa14679ec8d.png)
+![html](https://user-images.githubusercontent.com/88562205/135731364-d7a88ae5-f8e9-460a-92c8-fab86a0be11c.png)
 
 
 A brief preview: 
